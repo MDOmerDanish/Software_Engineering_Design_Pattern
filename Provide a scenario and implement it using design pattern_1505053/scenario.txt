@@ -1,0 +1,6 @@
+                   Builder Design Pattern
+There is a tea shop. They sell different types of  tea ,coffee .The shopkeeper want to Have a software to fulfill his purpose.
+
+We are going to implement this scenario using Builder Design Pattern.
+
+
